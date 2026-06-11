@@ -1,0 +1,14 @@
+{
+  "name": "Viki NFT #1234",
+  "description": "My nft #1234 for exercise 5.",
+  "attributes": [
+    {
+      "trait_type": "Token ID",
+      "value": "1234"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Sepolia"
+    }
+  ]
+}
